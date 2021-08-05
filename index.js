@@ -53,7 +53,7 @@ class CountdownTimer {
 // Настройки нового таймера
 const countdownTimer = new CountdownTimer({
   selector: '#timer-1',
-  targetDate: new Date('Sep 17, 2021'),
+  targetDate: new Date('Sep 01, 2021'),
 });
 
 countdownTimer.start();
